@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SchoolSchedule", "SchoolSchedule\SchoolSchedule.csproj", "{4E5F653E-07F5-4717-BC28-B0626FBAF36B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfPres", "WpfPres\WpfPres.csproj", "{2ADD3BF7-886C-44DD-99CD-7DCE021C1DB5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4E5F653E-07F5-4717-BC28-B0626FBAF36B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E5F653E-07F5-4717-BC28-B0626FBAF36B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E5F653E-07F5-4717-BC28-B0626FBAF36B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E5F653E-07F5-4717-BC28-B0626FBAF36B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2ADD3BF7-886C-44DD-99CD-7DCE021C1DB5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2ADD3BF7-886C-44DD-99CD-7DCE021C1DB5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2ADD3BF7-886C-44DD-99CD-7DCE021C1DB5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2ADD3BF7-886C-44DD-99CD-7DCE021C1DB5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2A7F749A-F2FC-4C9A-8B3B-A0E96B54404C}
+	EndGlobalSection
+EndGlobal
